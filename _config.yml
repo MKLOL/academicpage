@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dragos Ristache"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "BU PhD Student"
-  location         : "boston"
-  employer         :
+  location         : 
+  employer         : "Boston University"
   pubmed           : 
   googlescholar    : 
   email            :
