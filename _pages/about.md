@@ -15,7 +15,7 @@ I am broadly interested in theoretical computer science, with a focus on graphs 
 
 ## News
 
-August 2023: Will present a [poster](https://ristache.com/files/wola_poster.pdf) at [WOLA 2023](http://people.csail.mit.edu/joanne/WOLA23)
+August 2023: Will present a [poster](https://ristache.com/files/wola_poster.pdf) at [WOLA 2023](http://people.csail.mit.edu/joanne/WOLA23) about Testing Connectedness of Images.
 
 July 2023: Our paper Testing Connectedness of Images with Piotr Berman, Meiram Murzabulatov and Sofya Raskhodnikova was accepted at RANDOM 2023.
 
