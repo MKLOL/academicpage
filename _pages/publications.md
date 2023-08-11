@@ -11,4 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-Testing Connectedness of Images with Piotr Berman, Meiram Murzabulatov and Sofya Raskhodnikova, Dragos-Florian Ristache RANDOM 2023.
+- **Testing Connectedness of Images** with Piotr Berman, Meiram Murzabulatov and Sofya Raskhodnikova, **Dragos-Florian Ristache** RANDOM 2023.
