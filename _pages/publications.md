@@ -11,4 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-- **Testing Connectedness of Images** with Piotr Berman, Meiram Murzabulatov and Sofya Raskhodnikova, **Dragos-Florian Ristache** RANDOM 2023.
+- Wiser than the wisest of crowds: The Asch effect and polarization revisited.”, **Dragos-Florian Ristache** Fabian Spaeh and Charalampos Tsourakakis, ECML-PKDD 2024.
+
+- **[Testing Connectedness of Images](https://arxiv.org/abs/2312.03681)** with Piotr Berman, Meiram Murzabulatov and Sofya Raskhodnikova, **Dragos-Florian Ristache** RANDOM 2023.
