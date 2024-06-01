@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-My name is Dragos Ristache and I'm currently a PhD student at Boston University grateful to be advised by [Krzysztof Onak](https://onak.pl/). I did my undergraduate at University of Southampton, then did a masters at Cornell University and worked in industry a few years before returning to pursue my PhD.
+My name is Dragos Ristache and I'm currently a PhD student at Boston University. I am grateful to be advised by [Krzysztof Onak](https://onak.pl/). I did my undergraduate at University of Southampton, then did a masters at Cornell University and worked in industry for a few years before returning to pursue my PhD.
 
 I am broadly interested in theoretical computer science, with a focus on graphs and sublinear algorithms.
 
