@@ -15,7 +15,11 @@ I am broadly interested in theoretical computer science, with a focus on graphs 
 
 ## News
 
-May 2024: Our paper “Wiser than the wisest of crowds: The Asch effect and polarization revisited.” With Fabian Spaeh and Charalampos Tsourakakis was accepted at ECML-PKDD 2024.
+May 2025: Our paper - "The Adaptive Use of Count-Min Sketch: What is Safe and What is Not?" with Krzysztof Onak was accepted at KDD 2025
+
+Feb 2025: Our paper - ["Countering Election Sway: Strategic Algorithms in Friedkin-Johnsen Dynamics"](https://arxiv.org/abs/2502.01874), With Fabian Spaeh and Charalampos Tsourakakis is up on arxiv, currently in submission.
+
+May 2024: Our paper [“Wiser than the wisest of crowds: The Asch effect and polarization revisited.”](https://arxiv.org/abs/2406.07805) With Fabian Spaeh and Charalampos Tsourakakis was accepted at ECML-PKDD 2024.
 
 August 2023: Will present a [poster](https://ristache.com/files/wola_poster.pdf) at [WOLA 2023](http://people.csail.mit.edu/joanne/WOLA23) about Testing Connectedness of Images.
 
